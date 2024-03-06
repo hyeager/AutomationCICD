@@ -19,6 +19,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
+		// New Comments added here
 		String productName = "ZARA COAT 3";
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver = new EdgeDriver();
